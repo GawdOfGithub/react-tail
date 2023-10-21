@@ -1,8 +1,9 @@
 import './App.css'
+import { useState } from 'react'
 function App () {
   return (
     <>
-    <div>Tailwind react es-lint without formatting minimal </div>
+    <div>Tailwind dreact es-lint without formatting minimal </div>
     </>
   )
 }
